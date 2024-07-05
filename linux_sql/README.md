@@ -40,7 +40,9 @@ crontab -e
 # Implementation
 
 ## Architecture
-Draw a cluster diagram with three Linux hosts, a DB, and agents (use draw.io website). Image must be saved to the `assets` directory.
+Cluster Diagram with three Linux hosts, a DB, and agents.
+
+![Architecture Diagram](assets/architecture.png)
 
 ## Scripts
 
