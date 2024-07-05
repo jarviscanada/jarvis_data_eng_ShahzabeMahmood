@@ -102,5 +102,44 @@ The Bash scripts and SQL DDL were manually tested to verify their functionality.
 The project was deployed using the following steps:
 - **GitHub:** The source code was managed using Git and hosted on GitHub for version control and collaboration.
 - **Docker:** The PostgreSQL database was containerized using Docker, ensuring a consistent environment.
-- **Crontab:** The host_usage.sh script was scheduled to run every minute using cron jobs to continuously collect usage data.
+To ensure continuous data collection, the `host_usage.sh` script needs to be executed every minute. This can be automated using `crontab`.
+
+## Deploy/Automate `host_usage.sh` using crontab
+
+### Step-by-Step Instructions:
+
+1. **Edit Crontab Jobs:**
+  Open the crontab editor by running the following command:
+   ```bash
+   crontab -e.
+   ```
+2. **Add Crontab Entry:**
+  Add the following entry to the crontab file. Make sure to use the correct file location for your script:
+  ```bash
+   * * * * * bash /home/centos/dev/jrvs/bootcamp/linux_sql/host_agent/scripts/host_usage.sh localhost 5432 host_agent      postgres password > /tmp/host_usage.log
+  ```
+3. **List Crontab Jobs:**
+  To verify the crontab jobs, use:
+  ```bash
+  crontab -l
+  ```
+
+4. **Validate Your Results:**
+Connect to your PostgreSQL instance and query the host_usage table to ensure data is being collected every minute:
+```bash
+psql -h localhost -p 5432 -d host_agent -U postgres
+```
+```sql
+SELECT * FROM host_usage;
+```
+
+
+
+
+
+
+
+    
+
+
 
