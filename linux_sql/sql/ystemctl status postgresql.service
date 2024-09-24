@@ -1,0 +1,66 @@
+Jul 03 18:29:34 jrvs-remote-desktop systemd[1]: Starting PostgreSQL database server...
+[0;38;5;245m░░ [0m[0;32mSubject: A start job for unit postgresql.service has begun execution[0m
+[0;38;5;245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38;5;245m░░[0m [0;32mSupport: https://wiki.rockylinux.org/rocky/support[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mA start job for unit postgresql.service has begun execution.[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mThe job identifier is 4661.[0m
+Jul 03 18:29:34 jrvs-remote-desktop postmaster[5190]: 2024-07-03 18:29:34.356 UTC [5190] LOG:  redirecting log output to logging collector process
+Jul 03 18:29:34 jrvs-remote-desktop postmaster[5190]: 2024-07-03 18:29:34.356 UTC [5190] HINT:  Future log output will appear in directory "log".
+Jul 03 18:29:34 jrvs-remote-desktop systemd[1]: [0;1;39m[0;1;31m[0;1;39mpostgresql.service: Main process exited, code=exited, status=1/FAILURE[0m
+[0;38;5;245m░░ [0m[0;32mSubject: Unit process exited[0m
+[0;38;5;245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38;5;245m░░[0m [0;32mSupport: https://wiki.rockylinux.org/rocky/support[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mAn ExecStart= process belonging to unit postgresql.service has exited.[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mThe process' exit code is 'exited' and its exit status is 1.[0m
+Jul 03 18:29:34 jrvs-remote-desktop systemd[1]: [0;1;39m[0;1;31m[0;1;39mpostgresql.service: Killing process 5191 (postmaster) with signal SIGKILL.[0m
+Jul 03 18:29:34 jrvs-remote-desktop systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185mpostgresql.service: Failed with result 'exit-code'.[0m
+[0;38;5;245m░░ [0m[0;32mSubject: Unit failed[0m
+[0;38;5;245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38;5;245m░░[0m [0;32mSupport: https://wiki.rockylinux.org/rocky/support[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mThe unit postgresql.service has entered the 'failed' state with result 'exit-code'.[0m
+Jul 03 18:29:34 jrvs-remote-desktop systemd[1]: [0;1;31m[0;1;39m[0;1;31mFailed to start PostgreSQL database server.[0m
+[0;38;5;245m░░ [0m[0;32mSubject: A start job for unit postgresql.service has failed[0m
+[0;38;5;245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38;5;245m░░[0m [0;32mSupport: https://wiki.rockylinux.org/rocky/support[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mA start job for unit postgresql.service has finished with a failure.[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mThe job identifier is 4661 and the job result is failed.[0m
+Jul 03 18:30:29 jrvs-remote-desktop systemd[1]: Starting PostgreSQL database server...
+[0;38;5;245m░░ [0m[0;32mSubject: A start job for unit postgresql.service has begun execution[0m
+[0;38;5;245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38;5;245m░░[0m [0;32mSupport: https://wiki.rockylinux.org/rocky/support[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mA start job for unit postgresql.service has begun execution.[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mThe job identifier is 4743.[0m
+Jul 03 18:30:29 jrvs-remote-desktop postmaster[5249]: 2024-07-03 18:30:29.980 UTC [5249] LOG:  redirecting log output to logging collector process
+Jul 03 18:30:29 jrvs-remote-desktop postmaster[5249]: 2024-07-03 18:30:29.980 UTC [5249] HINT:  Future log output will appear in directory "log".
+Jul 03 18:30:29 jrvs-remote-desktop systemd[1]: [0;1;39m[0;1;31m[0;1;39mpostgresql.service: Main process exited, code=exited, status=1/FAILURE[0m
+[0;38;5;245m░░ [0m[0;32mSubject: Unit process exited[0m
+[0;38;5;245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38;5;245m░░[0m [0;32mSupport: https://wiki.rockylinux.org/rocky/support[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mAn ExecStart= process belonging to unit postgresql.service has exited.[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mThe process' exit code is 'exited' and its exit status is 1.[0m
+Jul 03 18:30:29 jrvs-remote-desktop systemd[1]: [0;1;39m[0;1;31m[0;1;39mpostgresql.service: Killing process 5250 (postmaster) with signal SIGKILL.[0m
+Jul 03 18:30:29 jrvs-remote-desktop systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185mpostgresql.service: Failed with result 'exit-code'.[0m
+[0;38;5;245m░░ [0m[0;32mSubject: Unit failed[0m
+[0;38;5;245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38;5;245m░░[0m [0;32mSupport: https://wiki.rockylinux.org/rocky/support[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mThe unit postgresql.service has entered the 'failed' state with result 'exit-code'.[0m
+Jul 03 18:30:29 jrvs-remote-desktop systemd[1]: [0;1;31m[0;1;39m[0;1;31mFailed to start PostgreSQL database server.[0m
+[0;38;5;245m░░ [0m[0;32mSubject: A start job for unit postgresql.service has failed[0m
+[0;38;5;245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38;5;245m░░[0m [0;32mSupport: https://wiki.rockylinux.org/rocky/support[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mA start job for unit postgresql.service has finished with a failure.[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mThe job identifier is 4743 and the job result is failed.[0m
