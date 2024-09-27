@@ -1,0 +1,15 @@
+[0;1;31m×[0m postgresql.service - PostgreSQL database server
+     Loaded: loaded (]8;;file://jrvs-remote-desktop/usr/lib/systemd/system/postgresql.service/usr/lib/systemd/system/postgresql.service]8;;; [0;1;32menabled[0m; preset: [0;1;38;5;185mdisabled[0m)
+     Active: [0;1;31mfailed[0m (Result: exit-code) since Wed 2024-07-03 18:30:29 UTC; 23h ago
+    Process: 5247 ExecStartPre=/usr/libexec/postgresql-check-db-dir postgresql (code=exited, status=0/SUCCESS)
+    Process: 5249 ExecStart=/usr/bin/postmaster -D ${PGDATA} [0;1;31m(code=exited, status=1/FAILURE)[0m
+   Main PID: 5249 (code=exited, status=1/FAILURE)
+        CPU: 37ms
+
+Jul 03 18:30:29 jrvs-remote-desktop systemd[1]: Starting PostgreSQL database server...
+Jul 03 18:30:29 jrvs-remote-desktop postmaster[5249]: 2024-07-03 18:30:29.980 UTC [5249] LOG:  redirecting log output to logging collector process
+Jul 03 18:30:29 jrvs-remote-desktop postmaster[5249]: 2024-07-03 18:30:29.980 UTC [5249] HINT:  Future log output will appear in directory "log".
+Jul 03 18:30:29 jrvs-remote-desktop systemd[1]: [0;1;39m[0;1;31m[0;1;39mpostgresql.service: Main process exited, code=exited, status=1/FAILURE[0m
+Jul 03 18:30:29 jrvs-remote-desktop systemd[1]: [0;1;39m[0;1;31m[0;1;39mpostgresql.service: Killing process 5250 (postmaster) with signal SIGKILL.[0m
+Jul 03 18:30:29 jrvs-remote-desktop systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185mpostgresql.service: Failed with result 'exit-code'.[0m
+Jul 03 18:30:29 jrvs-remote-desktop systemd[1]: [0;1;31m[0;1;39m[0;1;31mFailed to start PostgreSQL database server.[0m
