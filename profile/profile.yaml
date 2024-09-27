@@ -37,7 +37,7 @@ skills:
 # List of Jarvis projects
 jarvis_projects:
   - name: "Cluster Monitor"
-    git_url: "/linux_sql"
+    git_url: "https://github.com/jarviscanada/jarvis_data_eng_ShahzabeMahmood/tree/master/linux_sql"
     # The project description allows hiring managers to understand your project and technologies you used(e.g. programming languages, libraries, algorithms, hardware, tools, etc.).
     # The project description must start with an action verb (https://bit.ly/4guO98u)
     description: Developed a Linux Cluster Monitoring tool to collect and track hardware specs and resource usage data from multiple nodes. Utilized Bash for scripting, Docker for PostgreSQL containerization, and Git for version control. Implemented two key scripts, host_info.sh for capturing static hardware information and host_usage.sh for real-time monitoring of CPU and memory usage. Designed to support cluster performance management and resource optimization for future planning.
