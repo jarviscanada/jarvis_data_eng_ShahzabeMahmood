@@ -13,7 +13,7 @@
       "school_name": "Ontario Tech University"
     }
   ],
-  "github_repo_root_url": "https://github.com/jarviscanada/jarvis_data_eng_demo",
+  "github_repo_root_url": "https://github.com/jarviscanada/jarvis_data_eng_ShahzabeMahmood",
   "highlighted_projects": [
     {
       "description": "Developed an application called GameKnight which is a game library web application that can store and manage a game library across different platforms. The application lets gamers filter their game libraries to find and remember games from their past and find the games they want to play in the future. The application is powered using Django and connects to a backend database which can be configured in the settings. MariaDB/MySQL was used in application testing, however other databases should work if connected to Django in settings.",
