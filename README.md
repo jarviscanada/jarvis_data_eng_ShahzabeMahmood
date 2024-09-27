@@ -12,26 +12,26 @@ I am a dedicated and detail-oriented Software Engineer with a Bachelor's degree 
 
 ## Jarvis Projects
 
-Project source code: [https://github.com/jarviscanada/jarvis_data_eng_demo](https://github.com/jarviscanada/jarvis_data_eng_demo)
+Project source code: [https://github.com/jarviscanada/jarvis_data_eng_ShahzabeMahmood](https://github.com/jarviscanada/jarvis_data_eng_ShahzabeMahmood)
 
 
-**Cluster Monitor** [[GitHub](https://github.com/jarviscanada/jarvis_data_eng_demo/tree/master/linux_sql)]: Developed a Linux Cluster Monitoring tool to collect and track hardware specs and resource usage data from multiple nodes. Utilized Bash for scripting, Docker for PostgreSQL containerization, and Git for version control. Implemented two key scripts, host_info.sh for capturing static hardware information and host_usage.sh for real-time monitoring of CPU and memory usage. Designed to support cluster performance management and resource optimization for future planning.
+**Cluster Monitor** [[GitHub](https://github.com/jarviscanada/jarvis_data_eng_ShahzabeMahmood/tree/master/linux_sql)]: Developed a Linux Cluster Monitoring tool to collect and track hardware specs and resource usage data from multiple nodes. Utilized Bash for scripting, Docker for PostgreSQL containerization, and Git for version control. Implemented two key scripts, host_info.sh for capturing static hardware information and host_usage.sh for real-time monitoring of CPU and memory usage. Designed to support cluster performance management and resource optimization for future planning.
 
-**Core Java Apps** [[GitHub](https://github.com/jarviscanada/jarvis_data_eng_demo/tree/master/core_java)]:
+**Core Java Apps** [[GitHub](https://github.com/jarviscanada/jarvis_data_eng_ShahzabeMahmood/tree/master/core_java)]:
       
   - Twitter App: Curabitur laoreet tristique leo, eget suscipit nisi. Sed in sodales ex. Maecenas vitae tincidunt dui, et eleifend quam.
   - JDBC App: Curabitur laoreet tristique leo, eget suscipit nisi. Sed in sodales ex. Maecenas vitae tincidunt dui, et eleifend quam.
   - Grep App: Curabitur laoreet tristique leo, eget suscipit nisi. Sed in sodales ex. Maecenas vitae tincidunt dui, et eleifend quam.
 
-**Springboot App** [[GitHub](https://github.com/jarviscanada/jarvis_data_eng_demo/tree/master/springboot)]: Not Started
+**Springboot App** [[GitHub](https://github.com/jarviscanada/jarvis_data_eng_ShahzabeMahmood/tree/master/springboot)]: Not Started
 
-**Python Data Analytics** [[GitHub](https://github.com/jarviscanada/jarvis_data_eng_demo/tree/master/python_data_anlytics)]: Not Started
+**Python Data Analytics** [[GitHub](https://github.com/jarviscanada/jarvis_data_eng_ShahzabeMahmood/tree/master/python_data_anlytics)]: Not Started
 
-**Hadoop** [[GitHub](https://github.com/jarviscanada/jarvis_data_eng_demo/tree/master/hadoop)]: Not Started
+**Hadoop** [[GitHub](https://github.com/jarviscanada/jarvis_data_eng_ShahzabeMahmood/tree/master/hadoop)]: Not Started
 
-**Spark** [[GitHub](https://github.com/jarviscanada/jarvis_data_eng_demo/tree/master/spark)]: Not Started
+**Spark** [[GitHub](https://github.com/jarviscanada/jarvis_data_eng_ShahzabeMahmood/tree/master/spark)]: Not Started
 
-**Cloud/DevOps** [[GitHub](https://github.com/jarviscanada/jarvis_data_eng_demo/tree/master/cloud_devops)]: Not Started
+**Cloud/DevOps** [[GitHub](https://github.com/jarviscanada/jarvis_data_eng_ShahzabeMahmood/tree/master/cloud_devops)]: Not Started
 
 
 ## Highlighted Projects
