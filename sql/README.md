@@ -37,7 +37,7 @@ CREATE TABLE IF NOT EXISTS cd.facilities (
 
 
 
-###### Question 1: insert new facility into database
+###### Question 1: Insert new facility into database
 
 ```sql
 insert into cd.facilities
@@ -45,7 +45,7 @@ insert into cd.facilities
 values (9, 'Spa', 20, 30, 100000, 800)
 ```
 
-###### Question 2: insert new facility with auto-generated id into database
+###### Question 2: Insert new facility with auto-generated id into database
 
 ```sql
 insert into cd.facilities
