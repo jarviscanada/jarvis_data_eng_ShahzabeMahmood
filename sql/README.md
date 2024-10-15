@@ -1,5 +1,7 @@
 # Introduction
 
+This repository contains the results of my SQL Learning Project, focused on developing practical SQL skills and a solid understanding of Relational Database Management Systems (RDBMS). The project includes a series of SQL queries designed to cover essential database concepts such as data retrieval, joins, subqueries, aggregation, and data manipulation (CRUD operations). Each query is aimed at solving specific use cases and improving efficiency in working with relational data. The repository showcases my approach to SQL problem-solving and demonstrates my ability to interact with complex datasets using SQL.
+
 # SQL Quries
 
 ###### Table Setup (DDL)
