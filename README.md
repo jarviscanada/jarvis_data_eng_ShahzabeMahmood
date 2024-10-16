@@ -1,11 +1,3 @@
-<<<<<<< HEAD
-# Core Java Apps
-This project consists of three Java applications below
-
-1. [Java Grep App](./grep)
-2. [JDBC App](./jdbc)
-3. [Twitter CRUD App](./twitter)
-=======
 # Shahzabe Mahmood . Jarvis Consulting
 
 I am a dedicated and detail-oriented Software Engineer with a Bachelor's degree in Software Engineering from Ontario Tech University. With hands-on experience in full-stack development, DevOps engineering, and database management, I am passionate about creating scalable and reliable software solutions. My experience spans across various projects, including automated testing frameworks, cloud services, and AI applications. I thrive in dynamic environments, leveraging Agile methodologies to deliver robust software solutions. I am particularly excited about using cutting-edge technology to solve real-world challenges and continuously improving my skills in the software industry.
@@ -53,4 +45,3 @@ Project source code: [https://github.com/jarviscanada/jarvis_data_eng_ShahzabeMa
 - Dog Trainer
 - Fitness & Strength Coach
 - Competitive gaming
->>>>>>> feature/profile
