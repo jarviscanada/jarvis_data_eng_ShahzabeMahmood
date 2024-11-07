@@ -4,14 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="82108829-1d3c-443f-a438-65c0aa94f12b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../../../../../../../../.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../../../../../.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../../../../../.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../../../../../.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaGrepImp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-    </list>
+    <list default="true" id="82108829-1d3c-443f-a438-65c0aa94f12b" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -39,7 +32,6 @@
   "keyToString": {
     "Application.JavaGrepImp.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "feature/grep",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "/home/rocky/dev/jarvis_data_eng_ShahzabeMahmood/core_java/grep/src/main/java/ca/jrvs/apps/grep",
     "project.structure.last.edited": "Modules",
