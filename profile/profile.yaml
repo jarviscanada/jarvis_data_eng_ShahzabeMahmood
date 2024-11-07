@@ -1,0 +1,105 @@
+# Preferred name (Characters only)
+name: "Shahzabe Mahmood"
+# Your GitHub repo root URL
+github_repo_root_url: https://github.com/jarviscanada/jarvis_data_eng_ShahzabeMahmood
+
+# Introduce yourself, your academic and professional background.
+# What excites you about the software industry and your passion. At least 80 words
+summary: I am a dedicated and detail-oriented Software Engineer with a Bachelor's degree in Software Engineering from Ontario Tech University. With hands-on experience in full-stack development, DevOps engineering, and database management, I am passionate about creating scalable and reliable software solutions. My experience spans across various projects, including automated testing frameworks, cloud services, and AI applications. I thrive in dynamic environments, leveraging Agile methodologies to deliver robust software solutions. I am particularly excited about using cutting-edge technology to solve real-world challenges and continuously improving my skills in the software industry.
+
+# Group your skills by level.
+# Your skills can be anything software related (e.g. language, frameworks, methodologies, software, etc.).
+skills:
+  # At least 5 skills
+  proficient:
+    - Python
+    - Java
+    - Cloud Engineering (AWS, GCP & Azure)
+    - Linux/Bash
+    - RDBMS/SQL
+    - Agile/Scrum
+    - Git
+  # At least 5 skills
+  competent:
+    - JavaScript
+    - Docker/Kubernetes
+    - Automation Engineering (UiPath & Google App Scripts)
+    - Frontend Development (React, HTML/CSS)
+    - DevOps (CI/CD, Jenkins, GitLab CI)
+  # At least 5 skills
+  familiar:
+    - Web3/Blockchain
+    - Artifical Intelligence Frameworks 
+    - PowerShell 
+    - ROS2/Autoware
+    - C++
+    
+# List of Jarvis projects
+jarvis_projects:
+  - name: "Cluster Monitor"
+    git_url: "https://github.com/jarviscanada/jarvis_data_eng_ShahzabeMahmood/tree/master/linux_sql"
+    # The project description allows hiring managers to understand your project and technologies you used(e.g. programming languages, libraries, algorithms, hardware, tools, etc.).
+    # The project description must start with an action verb (https://bit.ly/4guO98u)
+    description: Developed a Linux Cluster Monitoring tool to collect and track hardware specs and resource usage data from multiple nodes. Utilized Bash for scripting, Docker for PostgreSQL containerization, and Git for version control. Implemented two key scripts, host_info.sh for capturing static hardware information and host_usage.sh for real-time monitoring of CPU and memory usage. Designed to support cluster performance management and resource optimization for future planning.
+   
+  
+  
+ 
+
+# List of personal or academic projects
+# Feel free to add more projects
+highlighted_projects:
+    #project name
+  - name: "GameKnight - Video Game Library"
+    #URL is optional
+    git_url: "https://github.com/ShahzabeM/GameKnight"
+    # The project description must start with an action verb (https://bit.ly/3guO98u)
+    description: Developed an application called GameKnight which is a game library web application that can store and manage a game library across different platforms. The application lets gamers filter their game libraries to find and remember games from their past and find the games they want to play in the future. The application is powered using Django and connects to a backend database which can be configured in the settings. MariaDB/MySQL was used in application testing, however other databases should work if connected to Django in settings.
+  - name: "Autonomous Vehicle Cruise Control"
+    git_url:
+    description: Engineered advanced autonomous vehicle software using the ROS2/Autoware stack, integrating cutting-edge machine learning algorithms to enhance system intelligence and decision-making capabilities. Developed a high-performance AI model that leveraged LiDAR sensors and depth cameras for real-time object detection, distance estimation, and environmental awareness. Optimized project workflows through Git-based version control and employed a Kanban board to ensure seamless collaboration, version management, and timely project execution within the simulation environment..
+
+#List of professional experience
+#The job description allows hiring managers to understand your job and the technologies you used(e.g. programming languages, libraries, algorithms, hardware, tools, etc.).
+#The description must be more than 25 words. If your experience is not software related, please focus on soft skills and achievements (e.g. team collaboration, problem-solving, improvements, communication).
+professional_experience:
+  #Write your Jarvis role as a professional experience rather than training.
+  - title: "Software Developer"
+    company: "Jarvis"
+    duration: "2020-present"
+    # The project description must start with an action verb (https://bit.ly/3guO98u)
+    description: "Developed and implemented a comprehensive Linux cluster monitoring system using Bash, Docker, and PostgreSQL,automating real-time data collection with crontab and optimizing database management for efficient resource utilizationand capacity planning. 
+."
+  - title: "Software Engnieering Intern"
+    company: "PwC (PricewaterhouseCoopers)"
+    duration: "May 2022 - September 2023"
+    description: "Conducted systematic testing and analysis, utilizing testing methodologies and frameworks, on weekly software releases within a firm-wide digital asset repository to identify and rectify bugs and ensure software quality. Facilitated over 30 internal technical training sessions to upskill the team in software engineering, with a focus on UiPath, Python, Google Scripts, Alteryx, and PowerBI, enhancing their ability to develop and maintain software solutions. Implemented Agile methodologies, contributing to sprint planning, daily stand-ups, and the timely delivery of product increments. Managed relational databases, optimizing performance through SQL and overseeing database migrations for enhanced system efficiency"
+
+# List of education
+education:
+  - school_name: "Ontario Tech University"
+    duration: "2019-2024"
+    degree: "Bachelor of Engineering (Honours)"
+    department: "Software Engineering"
+    awards_achievements:
+      - "Dean's List (2020)"
+      - "Dean's List (2021)"
+      - "Dean's List (2022)"
+      - "Dean's List (2024)"   
+  
+
+# Optional section
+others:
+  - title: "Certificates"
+    bullets:
+      - "AWS Certified Cloud Practitioner (May 2024)"
+      - "AWS Knowledge: Cloud Esstentials (April 2024)"
+  - title: "Awards"
+    bullets:
+      - "Dog Trainer"
+  - title: "Activities/Hobbies"
+    bullets:
+      - "Fitness & Strength Coach"
+      - "Competitive gaming"
+
+      
