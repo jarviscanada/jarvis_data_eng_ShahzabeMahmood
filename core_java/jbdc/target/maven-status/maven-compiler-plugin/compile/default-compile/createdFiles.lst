@@ -1,0 +1,10 @@
+ca/jrvs/apps/jbdc/dto/AlphaVantageApiClient.class
+ca/jrvs/apps/jbdc/dto/Dividend.class
+ca/jrvs/apps/jbdc/dto/GlobalQuoteResponse.class
+ca/jrvs/apps/jbdc/dto/Financial.class
+ca/jrvs/apps/stockquote/dao/CrudDao.class
+ca/jrvs/apps/stockquote/dao/QuoteDao.class
+ca/jrvs/apps/jbdc/dto/GlobalQuote.class
+ca/jrvs/apps/stockquote/model/Quote.class
+ca/jrvs/apps/jbdc/JDBCExecutor.class
+ca/jrvs/apps/stockquote/model/Position.class
