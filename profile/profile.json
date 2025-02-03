@@ -30,16 +30,21 @@
     {
       "description": "Developed a Linux Cluster Monitoring tool to collect and track hardware specs and resource usage data from multiple nodes. Utilized Bash for scripting, Docker for PostgreSQL containerization, and Git for version control. Implemented two key scripts, host_info.sh for capturing static hardware information and host_usage.sh for real-time monitoring of CPU and memory usage. Designed to support cluster performance management and resource optimization for future planning.",
       "git_url": "https://github.com/jarviscanada/jarvis_data_eng_ShahzabeMahmood/tree/master/linux_sql",
-      "name": "Cluster Monitor"
+      "name": "Cluster Monitoring System"
+    },
+    {
+      "description": "Developed a data analytics pipeline to analyze transactional data for a UK-based online giftware retailer, leveraging Python, Pandas, NumPy, and Matplotlib to extract insights on sales trends, customer behavior, and marketing optimization. Conducted data cleaning, feature engineering, and exploratory data analysis (EDA) to identify revenue fluctuations, customer retention patterns, and seasonal sales trends. Implemented RFM (Recency, Frequency, Monetary) analysis for customer segmentation, classifying users into groups such as \"Loyal Customers\" and \"At Risk\" to enhance targeted marketing strategies. Ensured data integrity, visualization accuracy, and code modularity, delivering a reproducible and scalable analysis documented in Jupyter Notebook and deployed via GitHub..",
+      "git_url": "https://github.com/jarviscanada/jarvis_data_eng_ShahzabeMahmood/tree/develop/python_data_analytics",
+      "name": "Python Data Analytics"
     },
     {
       "description": "Engineered Developed a terminal-based Stock Quote App that simulates stock trading by integrating real-time and historical market data from the Alpha Vantage API. The app supports CRUD operations for stock quotes and user positions, using JDBC for database interaction with PostgreSQL, Maven for build automation, and Docker for containerization. The project follows the DAO and Repository design patterns, ensuring modularity and scalability by abstracting database access and enabling easy technology swaps. The app is tested with JUnit and Mockito for unit and integration tests, ensuring proper functionality and data integrity across database transactions. This solution is scalable, maintainable, and easily deployable.",
-      "git_url": "https://github.com/jarviscanada/jarvis_data_eng_ShahzabeMahmood/tree/master/linux_sql",
+      "git_url": "https://github.com/jarviscanada/jarvis_data_eng_ShahzabeMahmood/tree/develop/core_java/JDBC",
       "name": "Stock Quote Application"
     },
     {
       "description": "Developed a high-performance, Java-based file search application inspired by the Linux grep command, designed for efficient pattern matching using Java Streams, file I/O, and regular expressions. Refactored the initial design to optimize memory usage with Java Streams' lazy evaluation, allowing on-demand processing and reducing memory overhead, enhancing scalability for larger datasets. Containerized the application with Docker for streamlined, cross-environment deployment, available on Docker Hub. Validated functionality with Java Unit Testing to ensure reliability and performance, making the application robust, lightweight, and deployable in diverse environments..",
-      "git_url": "https://github.com/jarviscanada/jarvis_data_eng_ShahzabeMahmood/tree/master/core_java",
+      "git_url": "https://github.com/jarviscanada/jarvis_data_eng_ShahzabeMahmood/tree/develop/core_java/grep",
       "name": "Core Java - Grep App"
     }
   ],
