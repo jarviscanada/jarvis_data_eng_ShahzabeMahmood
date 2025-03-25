@@ -1,4 +1,5 @@
 # Ignore JetBrains IDE config files
 .idea/
 
-python_data_analytics/
+/python_data_analytics/.*/
+
