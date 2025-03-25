@@ -4,7 +4,7 @@ I am a dedicated and detail-oriented Software Engineer with a strong focus on da
 
 ## Skills
 
-**Proficient:** Python, Java, Cloud Engineering (AWS, GCP & Azure), Linux/Bash, RDBMS/SQL, Agile/Scrum, Git
+**Proficient:** Python, Java, Cloud Engineering (AWS, GCP & Azure), Linux/Bash, RDBMS/SQL, Agile/Scrum, Git, Hadoop/PySpark
 
 **Competent:** JavaScript, Docker/Kubernetes, Automation Engineering (UiPath & Google App Scripts), Frontend Development (React, HTML/CSS), DevOps (CI/CD, Jenkins, GitLab CI)
 
