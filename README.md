@@ -2,6 +2,7 @@
 
 I am a dedicated and detail-oriented Software Engineer with a Bachelor's degree in Software Engineering from Ontario Tech University. With hands-on experience in full-stack development, DevOps engineering, and database management, I am passionate about creating scalable and reliable software solutions. My experience spans across various projects, including automated testing frameworks, cloud services, and AI applications. I thrive in dynamic environments, leveraging Agile methodologies to deliver robust software solutions. I am particularly excited about using cutting-edge technology to solve real-world challenges and continuously improving my skills in the software industry.
 
+
 ## Skills
 
 **Proficient:** Python, Java, Cloud Engineering (AWS, GCP & Azure), Linux/Bash, RDBMS/SQL, Agile/Scrum, Git
