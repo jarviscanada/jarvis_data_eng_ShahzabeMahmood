@@ -23,8 +23,6 @@ You performed the full implementation using PySpark in Databricks, focusing on k
 
 ## Databricks PySpark Implementation
 
-Notebook: [PySpark Data Analytics and Wrangling](./notebook/PySpark%20Data%20Analytics%20and%20Wrangling.ipynb)
-
 This end-to-end pipeline processes raw retail data and delivers actionable insights via transformations and group-level analytics in Spark.
 
 ### Data Wrangling & Cleansing:
