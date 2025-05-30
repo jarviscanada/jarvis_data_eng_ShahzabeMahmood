@@ -123,16 +123,14 @@ professional_experience:
   - title: Software Developer
     company: Jarvis
     duration: Sept 2024-present
-    description: As a Software Engineer at Jarvis Consulting, I contribute to the
-      development of scalable software solutions, utilizing technologies such as
-      Python, Java, cloud platforms (AWS, GCP, Azure), and Linux. I work on
+    description: As a Software Engineer at Jarvis Consulting, contributing to full-stack and cloud native solutions using Java, Python, AWS and GCP, with an emphasis on microservices, CI/CD, and enterprise-grade software quality. I work on
       full-stack development, DevOps, and database management, delivering robust
       applications that follow best practices in modularity and maintainability.
       I collaborate with cross-functional teams to implement Agile methodologies
       and CI/CD pipelines, ensuring efficient and scalable software delivery. My
       work is focused on creating efficient, high-performance systems with a
       strong emphasis on testing and quality assurance.
-  - title: Software Engnieering Intern
+  - title: Software Engineering Intern
     company: PwC (PricewaterhouseCoopers)
     duration: May 2022 - September 2023
     description: Conducted systematic testing and analysis, utilizing testing
