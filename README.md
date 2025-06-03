@@ -1,10 +1,10 @@
 # Shahzabe Mahmood . Jarvis Consulting
 
-I am a dedicated and detail-oriented Software Engineer with a Bachelor's degree in Software Engineering from Ontario Tech University. With hands-on experience in full-stack development, DevOps engineering, and database management, I am passionate about creating scalable and reliable software solutions. My experience spans across various projects, including automated testing frameworks, cloud services, and AI applications. I thrive in dynamic environments, leveraging Agile methodologies to deliver robust software solutions. I am particularly excited about using cutting-edge technology to solve real-world challenges and continuously improving my skills in the software industry.
+I'm a results-driven Software Engineer with a strong focus on data and full-stack development, holding a B.Eng in Software Engineering from Ontario Tech University. I specialize in building scalable, cloud-native applications and data pipelines using Python, Java, Spark, and SQL across AWS, Azure, and GCP platforms. At Jarvis Consulting, I've led the development of automated ETL pipelines, integrated React frontends with backend services, and deployed robust cloud infrastructure supporting analytics and internal tools. My work spans end-to-end systems?from ingesting and transforming large-scale datasets to delivering insights through clean APIs and Power BI dashboards. With hands-on experience in Agile environments, CI/CD, and containerized workflows, I bring both backend engineering depth and frontend fluency (React, HTML/CSS). I'm passionate about bridging engineering with business needs, solving complex problems, and continuously expanding my skill set.
 
 ## Skills
 
-**Proficient:** Python, Java, Cloud Engineering (AWS, GCP & Azure), Linux/Bash, RDBMS/SQL, Agile/Scrum, Git, Spark
+**Proficient:** Python, Java, Cloud Engineering (AWS, GCP & Azure), React, RDBMS/SQL, Agile/Scrum, Git, Spark
 
 **Competent:** JavaScript, Docker/Kubernetes, Automation Engineering (UiPath & Google App Scripts), Frontend Development (React, HTML/CSS), DevOps (CI/CD, Jenkins, GitLab CI)
 
