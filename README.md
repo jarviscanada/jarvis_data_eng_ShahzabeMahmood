@@ -4,9 +4,9 @@ I'm a results-driven Software Engineer with a strong focus on data and full-stac
 
 ## Skills
 
-**Proficient:** Python, Java, React, Cloud Engineering (AWS, GCP & Azure), Spark, Linux/Bash, RDBMS/SQL, Git, HTML/CSS
+**Proficient:** Python, Java, Cloud Engineering (AWS, GCP & Azure), React, RDBMS/SQL, HTML/CSS, Git, Spark
 
-**Competent:** JavaScript, Docker/Kubernetes, Automation Engineering (UiPath & Google App Scripts), DevOps (CI/CD, Jenkins, GitLab CI)
+**Competent:** JavaScript, Docker/Kubernetes, Automation Engineering (UiPath & Google App Scripts), Linux / Bash, DevOps (CI/CD, Jenkins, GitLab CI)
 
 **Familiar:** Web3/Blockchain, Artifical Intelligence Frameworks, PowerShell, ROS2/Autoware, C
 
