@@ -1,14 +1,14 @@
 # Shahzabe Mahmood . Jarvis Consulting
 
-I'm a results-driven Software Engineer with a strong focus on data and full-stack development, holding a B.Eng in Software Engineering from Ontario Tech University. I specialize in building scalable, cloud-native applications and data pipelines using Python, Java, Spark, and SQL across AWS, Azure, and GCP platforms. At Jarvis Consulting, I've led the development of automated ETL pipelines, integrated React frontends with backend services, and deployed robust cloud infrastructure supporting analytics and internal tools. My work spans end-to-end systems from ingesting and transforming large-scale datasets to delivering insights through clean APIs and Power BI dashboards. With hands-on experience in Agile environments, CI/CD, and containerized workflows, I bring both backend engineering depth and frontend fluency (React, HTML/CSS). I'm passionate about bridging engineering with business needs, solving complex problems, and continuously expanding my skill set.
+I'm a results-driven Software Engineer with a strong focus on data and full-stack development, holding a B.Eng in Software Engineering from Ontario Tech University. I specialize in building scalable, cloud-native applications and data pipelines using Python, Java, Spark, and SQL across AWS, Azure, and GCP platforms. I've led the development of automated ETL pipelines, integrated React frontends with backend services, and deployed robust cloud infrastructure supporting analytics and internal tools. My work spans end-to-end systems from ingesting and transforming large-scale datasets to delivering insights through clean APIs and Power BI dashboards. With hands-on experience in Agile environments, CI/CD, and containerized workflows, I bring both backend engineering depth and frontend fluency (React, HTML/CSS). I'm passionate about bridging engineering with business needs, solving complex problems, and continuously expanding my skill set.
 
 ## Skills
 
-**Proficient:** Python, Java, Cloud Engineering (AWS, GCP & Azure), Linux/Bash, RDBMS/SQL, React, Git, Spark
+**Proficient:** Python, Java, React, Cloud Engineering (AWS, GCP & Azure), Spark, Linux/Bash, RDBMS/SQL, Git, HTML/CSS
 
-**Competent:** JavaScript, Docker/Kubernetes, Automation Engineering (UiPath & Google App Scripts), Frontend Development (React, HTML/CSS), DevOps (CI/CD, Jenkins, GitLab CI)
+**Competent:** JavaScript, Docker/Kubernetes, Automation Engineering (UiPath & Google App Scripts), DevOps (CI/CD, Jenkins, GitLab CI)
 
-**Familiar:** Web3/Blockchain, Artifical Intelligence Frameworks, PowerShell, ROS2/Autoware, C++
+**Familiar:** Web3/Blockchain, Artifical Intelligence Frameworks, PowerShell, ROS2/Autoware, C
 
 ## Jarvis Projects
 
